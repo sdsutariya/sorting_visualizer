@@ -1,6 +1,6 @@
 <p align="center">
   
-![Sorting Visualizer]
+Sorting Visualizer
 
 
 </p>
